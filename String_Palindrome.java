@@ -1,5 +1,4 @@
 package TCSnqt;
-
 import java.util.*;
 
 class String_Palindrome {
